@@ -14,7 +14,7 @@ Using the provided HTML template to get started:
 - Include a CSS Stylesheet with rules to alter:
     - Text color of headings
     - Font-size of paragraphs
-    - Background color of the page
+    - Background color of the page 
 - **Challenge 1** Use CSS to:
     - Increase the spacing lines in your paragraphs
     - Center align your headers

@@ -1,0 +1,34 @@
+h1, h2 {
+    color: red;
+    text-align: center;    
+}
+
+body {
+    background-color: rgb(255, 196, 148);
+    text-align: center;
+}
+
+hr {
+    color: black;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+p {
+    font-size: 105%;
+    line-height: 30px;
+
+}
+
+section {
+    font-size: 105%;
+}
+
+.stats, .CL {
+    color: blue;
+
+}
